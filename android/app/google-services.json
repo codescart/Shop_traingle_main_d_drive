@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344845256112",
+    "project_id": "shoptrianglenew",
+    "storage_bucket": "shoptrianglenew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344845256112:android:64effa24fae89570d4c275",
+        "android_client_info": {
+          "package_name": "com.foundercode.shoptriangleuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344845256112-giu5uto5vpmls661o7dhq9b01vet1s6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNnAOX4k_QMfFvyt_GwLTbklqi7OdCDKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344845256112-giu5uto5vpmls661o7dhq9b01vet1s6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
